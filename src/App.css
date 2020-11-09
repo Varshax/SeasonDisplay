@@ -1,0 +1,17 @@
+.error {
+  display: inline;
+  text-align: center;
+  height: 100vh;
+}
+
+.error h1 {
+  color: red;
+  font-weight: bold;
+  margin-top: 10rem;
+}
+
+.error h3 {
+  color: black;
+  font-weight: bolder;
+  margin: 0 auto;
+}
